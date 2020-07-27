@@ -1,0 +1,16 @@
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\bin\Debug\dictionary.mdb
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\bin\Debug\DictionaryKIT.exe.config
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\bin\Debug\DictionaryKIT.exe.manifest
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\bin\Debug\DictionaryKIT.application
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\bin\Debug\DictionaryKIT.exe
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\bin\Debug\DictionaryKIT.pdb
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\Словарик.FormMain.resources
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\Словарик.FormTest.resources
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.Properties.Resources.resources
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.csproj.GenerateResource.Cache
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.exe.manifest
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.application
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.exe
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.pdb
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.csprojResolveAssemblyReference.cache
+C:\Users\Packie\Desktop\Словарик v2.0\Словарик\obj\Debug\DictionaryKIT.TrustInfo.xml
